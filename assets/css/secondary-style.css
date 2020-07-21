@@ -7,9 +7,9 @@
 .page-title {
     color: #fce138;
     display: inline-block;
-    border-bottom: #fce138;
-    width: 4px;
-    border-style: solid;
+    border-bottom-color: #fce138 ;
+    border-bottom-width: 4px;
+    border-bottom-style: solid;
     padding: 0 80px 15px 80px;
     font-weight: normal;
     font-size: 42px;
