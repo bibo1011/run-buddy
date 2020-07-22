@@ -1,4 +1,4 @@
 # run-buddy
 # project from module 1
-# this is very important learn
+# this is very important to learn
 # ----------->basic<------------
