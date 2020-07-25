@@ -1,4 +1,14 @@
-# run-buddy
-# project from module 1
-# this is very important to learn
-# ----------->basic<------------
+# Run Buddy
+
+## Purpose
+A website that offers fitness training services.
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by Blue
